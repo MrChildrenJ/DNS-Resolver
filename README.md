@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 This is a DNS resolver implemented in Java that acts as a local DNS server. It receives DNS queries from clients, checks a local cache, and forwards uncached requests to Google's DNS servers (8.8.8.8) for resolution.
